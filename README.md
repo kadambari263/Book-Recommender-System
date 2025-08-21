@@ -25,3 +25,11 @@ A personalized book recommendation engine using **content-based filtering** and 
 2. Install dependencies:
    ```bash
    pip install flask pandas numpy scikit-learn
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📚 Recommendation Results
+![Recommendation Page](screenshots/recommend.png)
